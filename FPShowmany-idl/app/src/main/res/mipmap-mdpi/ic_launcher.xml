@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Синий фон -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M0,0h48v48H0z"/>
+    <!-- Символ FPS -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,8 L24,40 M12,24 L36,24"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF"/>
+</vector>

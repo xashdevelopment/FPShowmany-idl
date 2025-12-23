@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Название приложения -->
+    <string name="app_name">Тест: Насколько хорош ваш телефон?</string>
+    <string name="app_subtitle">FPS Super Stress Tester</string>
+    <string name="app_logo_description">Логотип приложения</string>
+
+    <!-- Кнопки -->
+    <string name="btn_start_test">Начать тест!</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="btn_try_again">Попробовать снова</string>
+
+    <!-- Настройки -->
+    <string name="settings">Настройки</string>
+    <string name="settings_gpu_mode">Режим тестирования GPU</string>
+    <string name="settings_gpu_mode_description">2D - простые графические операции. 3D - сложные 3D-рендеринг. Авто - оба режима.</string>
+    <string name="mode_2d">2д</string>
+    <string name="mode_3d">3д</string>
+    <string name="mode_auto">Авто</string>
+
+    <string name="settings_duration">Длительность теста</string>
+    <string name="seconds">сек</string>
+
+    <string name="settings_cpu_threads">Потоки CPU</string>
+    <string name="settings_cpu_threads_description">Количество потоков для нагрузки на процессор</string>
+
+    <!-- Тестирование -->
+    <string name="test_running">Тестирование</string>
+    <string name="stage_cpu">Тест CPU</string>
+    <string name="stage_ram">Тест RAM</string>
+    <string name="stage_gpu">Тест GPU</string>
+    <string name="test_complete">Тест завершен!</string>
+
+    <!-- Статистика -->
+    <string name="label_fps">FPS</string>
+    <string name="label_score">Балл</string>
+
+    <!-- Результаты -->
+    <string name="results">Результаты</string>
+    <string name="your_result">Ваш результат</string>
+
+    <!-- Компоненты -->
+    <string name="component_cpu">Процессор (CPU)</string>
+    <string name="component_ram">Память (RAM)</string>
+    <string name="component_gpu">Видеокарта (GPU)</string>
+
+    <!-- Уровни производительности -->
+    <string name="rating_very_bad">Ваш телефон нуждается в замене</string>
+    <string name="rating_bad">Устройство работает медленно</string>
+    <string name="rating_not_bad">Базовые задачи выполняются нормально</string>
+    <string name="rating_normal">Средняя производительность</string>
+    <string name="rating_good">Устройство работает хорошо</string>
+    <string name="rating_excellent">Отличная производительность!</string>
+
+    <!-- Ошибки -->
+    <string name="error_gpu_init">Ошибка инициализации GPU теста</string>
+    <string name="error_out_of_memory">Недостаточно памяти</string>
+</resources>

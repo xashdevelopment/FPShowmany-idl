@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Названия компонентов для приложения -->
+    <string-array name="cpu_thread_options">
+        <item>1 поток</item>
+        <item>2 потока</item>
+        <item>4 потока</item>
+        <item>8 потоков</item>
+        <item>Максимум</item>
+    </string-array>
+</resources>
