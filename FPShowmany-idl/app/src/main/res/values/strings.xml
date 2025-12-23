@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Version 2.0 - Updated with better UI and fixes -->
     <!-- Название приложения -->
     <string name="app_name">Тест: Насколько хорош ваш телефон?</string>
-    <string name="app_subtitle">FPS Super Stress Tester</string>
+    <string name="app_subtitle">FPS Super Stress Tester v2</string>
     <string name="app_logo_description">Логотип приложения</string>
 
     <!-- Кнопки -->
